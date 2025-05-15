@@ -1,0 +1,11 @@
+Age,BMI,Sex,Smoker,Children,Region,Prediction (₹),Predicted Charges
+30,25.0,male,yes,0,northeast,2237136.0,
+30,25.0,male,yes,0,northeast,,2227032.0
+30,25.040000000000006,male,yes,0,northeast,,2228110.0
+95,25.040000000000006,male,yes,0,northeast,,3564384.0
+30,25.0,male,yes,0,northeast,,2227032
+30,25.0,female,yes,0,northeast,,2228519.0
+27,25.01,male,no,4,southeast,,356997.0
+30,25.0,male,yes,0,northeast,,2227032.0
+30,25.0,male,yes,0,northeast,,2227032.0
+30,25.040000000000006,female,yes,0,northeast,,2229598.0
